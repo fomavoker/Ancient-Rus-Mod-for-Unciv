@@ -1,0 +1,24 @@
+[
+  {
+		"name": "Statue of Perune",
+		"replaces": "Monument",
+		"uniqueTo": "Ancient Rusi",
+		"culture": 3,
+		"faith": 3,
+		"cost": 40,
+		"hurryCostModifier": 30,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+  {
+    "name": "Broadcast Pyramid",
+    "uniqueTo": "Reptiloids",
+    "replaces": "Broadcast Tower",
+    "culture": 5,
+    "percentStatBonus": {"culture": 50},
+    "requiredBuilding": "Museum",
+    "maintenance": 4,
+    "requiredTech": "Radio",
+    "uniques": ["Destroyed when the city is captured"]
+  }
+]
