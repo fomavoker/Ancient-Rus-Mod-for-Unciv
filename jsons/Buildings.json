@@ -9,7 +9,7 @@
 		"hurryCostModifier": 30,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
-	},
+  },
   {
     "name": "Broadcast Pyramid",
     "uniqueTo": "Reptiloids",
