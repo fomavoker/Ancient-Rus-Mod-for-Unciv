@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Ancient Rusi",
+    "leaderName": "Boroda Rublevskiy",
+    "adjective": ["Rus"],
+    "preferredVictoryType": "Diplomatic",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "Be afraid of Perun!",
+		"attacked": "You are the Antichrist. Fear God Herod!",
+		"defeated": "Yes, let our ancestors remember about us.",
+		"introduction": "Hello. Behold the heritage of our ancestors!",
+		"neutralHello": "Are you in good health?",
+		"hateHello": "Get out of my sight.",
+		"tradeRequest": "Will you accept our gifts?",
+
+    "outerColor": [153, 0, 0],
+    "innerColor": [192,192,192],
+
+    "favoredReligion": "Yazichestvo",
+		"uniqueName": "Ancestral Heritage",
+		"uniques": ["[+1 Happiness] for every 2 [Population] [in capital]","[+1 Science] for every 2 [Population] [in capital]","[+1 Culture] for every 2 [Population] [in capital]","[-10]% City-State Influence degradation"],
+		"cities": ["Kiev","Moscow","Novgorod","Rostov","Yaroslavl","Yakutsk","Vladivostok","Smolensk","Orenburg","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara","Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm","Voronezh","Pskov","Starayarussa","Kostroma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
+    "spyNames": ["Viktor", "Volodimir", "Dmitry", "Vladislav", "Andrey", "Boris", "Kazimir", "Mikhail", "Yaroslav", "Svyatoslav"]
+  },
+  {
+    "name": "Reptiloids",
+    "leaderName": "Yascher 1",
+    "adjective": ["Yascher"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+
+    "declaringWar": "You're bothering us.",
+		"attacked": "Do not interfere with the capture of the world little human!",
+		"defeated": "Our ships will be back soon...",
+		"introduction": "Hello humanoid. We are your enlighteners.",
+		"neutralHello": "Hello human.",
+		"hateHello": "You shouldn't make us angry.",
+		"tradeRequest": "We have knowledge. What about you?",
+
+    "outerColor": [25, 51, 0],
+    "innerColor": [0,153,0],
+
+    "favoredReligion": "Tengriism",
+		"uniqueName": "Jew-Lizard pseudoscience",
+		"uniques": ["[+3 Science] when declaring friendship","\"Borrows\" city names from other civilizations in the game","Starts with [Mathematics]"],
+		"cities": ["Headquater City"],
+    "spyNames": ["Baiden", "Trump", "Obama", "Evklid", "Platon", "Navaliniy", "Hitler", "Washington", "Archimed", "Aristotel"]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Druzhinnik",
+		"unitType": "Sword",
+		"uniqueTo": "Ancient Rusi",
+		"replaces": "Longswordsman",
+    "movement": 2,
+		"strength": 23,
+		"cost": 110,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+    "promotions": ["Shock I","Drill I","Great Generals II"],
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+  },
+  {
+		"name": "Voevoda",
+		"unitType": "Civilian",
+		"uniqueTo": "Ancient Rusi",
+		"replaces": "Great General",
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>","[+20]% Strength bonus for [Military] units within [2] tiles","All adjacent units heal [+30] HP when healing", "[+15] HP when healing","Can instantly construct a [Citadel] improvement <by consuming this unit>","Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 4
+	},
+  {
+		"name": "Reptiloid",
+		"unitType": "Civilian",
+    "uniqueTo": "Reptiloids",
+		"replaces": "Missionary",
+		"uniques": ["Can [Spread Religion] [2] times", "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there","Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]","[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled","Can hurry technology research"],
+		"movement": 5,
+		"religiousStrength": 2000
+	}
+]
